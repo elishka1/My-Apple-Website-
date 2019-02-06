@@ -1,0 +1,214 @@
+html {
+    background-color:black
+}
+
+
+   body {
+      margin: 0;
+      padding: 0;
+      font-family: "Helvetica Neue";
+
+
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .nav {
+    text-align: center;
+    margin:0;
+    padding:10px;
+    background-color: #333;
+    font-family: "Helvetica Neue";
+    color: #fff;
+    letter-spacing: normal;
+    word-spacing: 77px;
+    font-size: 14px;
+  
+    }
+
+    .home{
+      font-size:20px;
+    }
+
+    .mac {
+      font-weight: 300;
+    }
+
+    nav li a {
+      color:#fff;
+    }
+
+    .nav li a:hover {
+      color:#BBBBBB;
+    }
+
+
+.nav li{
+    display:inline;
+} 
+
+.rectangle {
+  height: 12px;
+  width: 100%;
+  background-color: #222222;
+  position: absolute;
+  top: 338px;
+
+}
+
+.XR {
+  height:463px;
+  width:1210px;
+  position: absolute;
+  top: 576px;
+  left: 112px
+}
+  
+#h1title {
+  color:white;
+  font-weight: 410;
+  font-size: 25px;
+  transform: scale(1.25, 1.3);
+  position: absolute;
+  left: 467px;
+  top: 130px;
+  letter-spacing:0.2px
+}
+
+
+#limited {
+  font-weight: 300;
+  position: absolute;
+  left: 657px;
+  top: 78px;
+  letter-spacing:0.5px;
+  font-size: 16.5px;
+  color:#BBBBBB;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  padding-top:6px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 14px;
+}
+
+
+  #trade {
+  position: absolute;
+  letter-spacing:0.2px;
+  font-weight: 300;
+  left: 399px;
+  top: 171px;
+  font-size: 19.5px
+  }
+
+  #nearyou {
+  position: absolute;
+  letter-spacing:0.2px;
+  font-weight: 300;
+  font-size: 19.5px;
+  left: 679px;
+  top: 200px
+   }
+
+   #findastore {
+  position: absolute;
+  color: #6bf;
+  letter-spacing:0.2px;
+  font-weight: 300;
+  font-size: 19.5px;
+  left: 660px;
+  top: 240px
+   }
+
+   #iphonexr {
+  color:white;
+  font-weight: 410;
+  font-size: 33px;
+  transform: scale(1.25, 1.3);
+  position: absolute;
+  left: 631px;
+  top: 375px;
+  letter-spacing:0.2px;
+  word-spacing: -2px
+   }
+
+   #r {
+  color: white;
+  position: absolute;
+  left: 791px;
+  top: 383px;
+  font-size: 22px;
+  font-weight: 410;
+  border-style: solid;
+  border-radius: 9px;
+  padding-top:0.3px;
+  padding-bottom: 0.3px;
+  padding-left: 6px;
+  padding-right: 6px;
+  border-width: 3px   
+
+   }
+
+   #allscreen {
+  position: absolute;
+  letter-spacing:0.2px;
+  font-weight: 390;
+  left: 437px;
+  top: 432px;
+  font-size: 23px;
+   }
+
+   #fastest {
+  position: absolute;
+  letter-spacing:0.2px;
+  font-weight: 390;
+  left: 496px;
+  top: 464px;
+  font-size: 23px;
+  letter-spacing: 0.3px
+   } 
+
+   #learnmore {
+  position: absolute;
+  color: #6bf;
+  letter-spacing:0.3px;
+  font-weight: 300;
+  font-size: 19.5px;
+  left: 622px;
+  top: 509px
+   }
+
+   #buy {
+  position: absolute;
+  color: #6bf;
+  letter-spacing:0.3px;
+  font-weight: 300;
+  font-size: 19.5px;
+  left: 768px;
+  top: 509px
+   }
+
+
+
+
+  /* <style>.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+
+  }
+   </style> */
