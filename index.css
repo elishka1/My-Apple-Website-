@@ -7,7 +7,6 @@ html {
       margin: 0;
       padding: 0;
       font-family: "Helvetica Neue";
-      
 
 
   }
@@ -27,6 +26,7 @@ html {
     color: #fff;
     letter-spacing: normal;
     font-size: 14px;
+    text-decoration: none;
   
     }
 
@@ -79,7 +79,7 @@ html {
   display: flex;
   justify-content: center;
   text-align: center;
-  margin-left: -2px
+  margin-left: -607px
 }
   
 #h1title {
@@ -120,19 +120,19 @@ html {
   position: absolute;
   letter-spacing:0.2px;
   font-weight: 300;
-  width: 650px;
+  width: 645px;
   top: 171px;
   font-size: 19.5px;
   line-height: 30px;
   }
 
-   #findastore {
+  #findastore {
   position: absolute;
   color: #6bf;
   letter-spacing:0.2px;
   font-weight: 400;
   font-size: 19.5px;
-  
+  text-decoration: none;
   top: 240px
    }
 
@@ -145,14 +145,14 @@ html {
   top: 375px;
   letter-spacing:0.2px;
   word-spacing: -2px;
-  margin-left: -20px
+  margin-left: -89px
    }
 
    #r {
   color: white;
   position: absolute;
   top: 383px;
-  margin-left: 90px;
+  margin-left: 70px;
   font-size: 22px;
   font-weight: 410;
   border-style: solid;
@@ -190,6 +190,7 @@ html {
   font-size: 19.5px;
   top: 509px;
   margin-left: -40px;
+  text-decoration: none;
    }
 
    #buy {
@@ -200,13 +201,83 @@ html {
   font-size: 19.5px;
   top: 509px;
   margin-left: 73px;
+  text-decoration: none;
    }
 
    .wrapper {
     display: flex;
     justify-content: center;
-    padding-top:
+
    }
+
+  #findastore a:link {
+    color: #6bf;
+    background-color: none; 
+    text-decoration: none;
+  }
+  
+  #findastore a:visited {
+    color: #6bf;
+    background-color: none;
+    text-decoration: none;
+  }
+  
+  #findastore a:hover {
+    background-color: none;
+    text-decoration: underline;
+  }
+  
+  #findastore a:active {
+    color: #6bf;
+    text-decoration: none;
+  }
+
+  #learnmore a:link {
+    color: #6bf;
+    background-color: none; 
+    text-decoration: none;
+  }
+  
+  #learnmore a:visited {
+    color: #6bf;
+    background-color: none;
+    text-decoration: none;
+  }
+  
+  #learnmore a:hover {
+    background-color: none;
+    text-decoration: underline;
+  }
+  
+  #learnmore a:active {
+    color: #6bf;
+    text-decoration: none;
+  }
+
+  #buy a:link {
+    color: #6bf;
+    background-color: none; 
+    text-decoration: none;
+  }
+  
+  #buy a:visited {
+    color: #6bf;
+    background-color: none;
+    text-decoration: none;
+  }
+  
+  #buy a:hover {
+    background-color: none;
+    text-decoration: underline;
+  }
+  
+  #buy a:active {
+    color: #6bf;
+    text-decoration: none;
+  }
+
+
+
 
 
 
